@@ -9,4 +9,4 @@ fastai2
 fastbook
 Pillow
 gdown
-opencv-python-headlessv
+opencv-python-headless
