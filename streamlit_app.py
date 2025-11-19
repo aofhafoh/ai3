@@ -76,7 +76,7 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
      },
     labels[1]: {
        "texts": ["갱스터", "차카니머리", "황금의바람"],
-       "images": [https://www.google.com/imgres?q=%EC%A3%A0%EB%A5%B4%EB%85%B8&imgurl=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FMj4CM%2FbtrRMzcD73A%2FAAAAAAAAAAAAAAAAAAAAAF0-ljXXYp7E3HLYvR8oRWOK_LS6XzcyetMI-yjVEeHM%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1764514799%26allow_ip%3D%26allow_referer%3D%26signature%3DOfIshd0m201cAO7NfQhm9SYbDZI%253D&imgrefurl=https%3A%2F%2Ftactix.tistory.com%2F1515&docid=AKXO1LrdZa4QAM&tbnid=2m1nztFqharoYM&vet=12ahUKEwjFjabg4vqQAxUAZfUHHUHOI0MQM3oECBMQAA..i&w=500&h=282&hcb=2&ved=2ahUKEwjFjabg4vqQAxUAZfUHHUHOI0MQM3oECBMQA],
+       "images" : ["https://i.namu.wiki/i/wxD_ht_QfgIkjG574xsbqINYdYnuniTuzZPV1IQdVAVWnQ56h296kWdit8MjqFbekgHgHJVGvADr7cSMGi_mpA.webp"],
        "videos": ["https://www.youtube.com/watch?v=nsaai5whYcc"]
      },
     labels[2]: {
